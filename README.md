@@ -38,5 +38,5 @@ datos	Carpeta datos/
 scripts	Carpeta scripts/
 resultados-docs	Carpetas resultados/ y docs/
 
-Autor
+## Autor
 Iván Serrano González
