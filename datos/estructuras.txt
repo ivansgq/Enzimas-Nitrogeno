@@ -1,0 +1,5 @@
+**Estructuras de las enzimas**
+
+4UBP  Ureasa de Sporosarcina pasteurii, rayos X 1,55 A
+5OL4  Ureasa de Sporosarcina pasteurii con NBPT, rayos X 1,28 A
+9CL6  Amoniaco monooxigenasa de Nitrosomonas europaea, crio-ME 2,77 A
